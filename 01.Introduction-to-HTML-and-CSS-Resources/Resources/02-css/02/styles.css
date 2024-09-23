@@ -1,0 +1,19 @@
+div p {
+    color: blue;
+}
+
+span {
+    color: red;
+}
+
+ul > li {
+    list-style-type: square;
+}
+
+/*p + p {*/
+/*    background-color: grey;*/
+/*}*/
+
+p + p {
+    background-color: grey;
+}
