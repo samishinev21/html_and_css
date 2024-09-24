@@ -1,0 +1,21 @@
+p.fancy-style {
+    color: cyan;
+    font-size: 30px;
+}
+
+div#fancy-div {
+    background-color: yellow;
+}
+
+a[target="_blank"] {
+    color: red;
+}
+
+h2.fancy-style.unique-background {
+    background-color: pink;
+}
+
+.fancy-style.unique-background {
+    background-color: seagreen;
+}
+
