@@ -1,0 +1,18 @@
+section > p {
+    font-size: 15;
+    color: lime;
+}
+ul > li {
+    font-weight: bold;
+}
+
+article + article {
+    background-color: red;
+}
+h2.subtitle ~ p {
+    color: blue;
+}
+
+li > a.class1 {
+    color: green;
+}
