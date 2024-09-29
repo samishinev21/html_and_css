@@ -1,0 +1,18 @@
+header, footer, section {
+    border-style: outset;
+    border-width: 0.5px;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+header nav ul li a {
+    font-size: 14px;
+    text-decoration: none;
+}
+
+header nav ul {
+   padding-left: 10px;
+}
