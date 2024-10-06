@@ -1,0 +1,17 @@
+.uniform {
+    padding: 20px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.non-uniform {
+    padding: 10px 20px 30px 40px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.percentage {
+    padding: 5%;
+    border: 1px solid black;
+    margin: 5px;
+}
