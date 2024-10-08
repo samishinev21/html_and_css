@@ -1,0 +1,22 @@
+.fixed_height {
+    height: 200px;
+}
+
+.bordered {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 15px;
+}
+
+.percentage_height {
+    height: 50%;
+}
+
+.viewport_height {
+    height: 50vh;
+}
+
+.min_max_height {
+    min-height: 100px;
+    max-height: 300px;
+}
