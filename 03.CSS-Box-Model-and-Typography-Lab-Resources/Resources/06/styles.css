@@ -1,0 +1,23 @@
+.box {
+    padding: 15px;
+    margin: 15px;
+}
+
+.solid_border {
+    border: 4px solid black;
+}
+
+.dashed_border {
+    border: 3px dashed #333;
+}
+
+.dotted_border {
+    border: 2px dotted #666;
+}
+
+.mixed_border {
+    border-top: 3px dashed #333;
+    border-bottom: 3px dashed #921;
+    border-left: 4px solid #000;
+    border-right: 4px solid #000;
+}
