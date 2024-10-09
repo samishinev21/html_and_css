@@ -1,0 +1,34 @@
+.font-fam-arial {
+    font-family: Arial, sans-serif;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.font-size-24px {
+    font-size: 24px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.font-style-italic {
+    font-style: italic;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.font-variant-small-caps {
+    font-variant: small-caps;
+    border: 1px solid black;
+    padding: 10px;
+}
+
