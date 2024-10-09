@@ -1,0 +1,23 @@
+.overflow-visible {
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    overflow: visible;
+    background: blue;
+}
+
+.overflow-hidden {
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    overflow: hidden;
+    background: green;
+}
+
+.overflow-scroll {
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    overflow: scroll;
+    background: orangered;
+}
