@@ -1,0 +1,45 @@
+.parent-container {
+    width: 50vw;
+    margin: 50px auto;
+}
+
+.content-container {
+    text-align: center;
+}
+
+.parent-container div {
+    border: 1px dashed #666;
+    margin: 10px 30px 30px 30px;
+}
+
+.parent-container .margin-container {
+    background-color: #fd956e;
+}
+
+.parent-container .margin-container:before {
+    content: "margin";
+}
+
+.parent-container .border-container {
+    background-color: #fde6c4;
+}
+
+.parent-container .border-container:before {
+    content: "border";
+}
+
+.parent-container .padding-container {
+    background-color: #84e984;
+}
+
+.parent-container .padding-container:before {
+    content: "padding";
+}
+
+.parent-container .content-container {
+    background-color: #a2d0e0;
+}
+
+.parent-container div:before {
+    padding-left: 10px;
+}
