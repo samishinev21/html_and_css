@@ -1,0 +1,19 @@
+div.green-border {
+    border: 3px solid green;
+}
+
+div.blue-border {
+    width: 80vw;
+    border: 3px solid blue;
+    margin: 30px auto;
+}
+
+.black-border {
+    border: 3px solid black;
+    margin: 30px;
+    text-align: center;
+}
+
+.black-border p {
+    padding: 20px;
+}
