@@ -1,0 +1,38 @@
+article {
+    max-width: 850px;
+    margin: 100px auto;
+    border: 1px groove grey;
+    padding: 25px;
+}
+
+article h1 {
+    margin-bottom: 15px;
+}
+
+article header p {
+    padding-bottom: 25px;
+    font-size: 1.1rem;
+}
+
+article main p {
+    padding-bottom: 25px;
+}
+
+article main h2 {
+    padding-bottom: 15px;
+}
+
+article footer p {
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+article footer span.author {
+    font-weight: bold;
+    font-style: normal;
+}
+
+article footer time {
+    font-weight: bold;
+    font-style: normal;
+}
